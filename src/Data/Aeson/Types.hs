@@ -132,6 +132,7 @@ module Data.Aeson.Types
     , fieldLabelModifier
     , constructorTagModifier
     , allNullaryToStringTag
+    , nullaryToObject
     , omitNothingFields
     , sumEncoding
     , unwrapUnaryRecords
